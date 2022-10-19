@@ -1,4 +1,4 @@
-# NVIDIA Isaac ROS
+# NVIDIA Isaac
 
 Welcome to Isaac, a collection of software packages for making autonomous robots.
 
