@@ -2,7 +2,7 @@
 
 ## Mission Dispatch with Isaac ROS DP2 Oct 19, 2022
 ### What's New
-- `mission-dispatch` introduced as a VDA5050-compatible mission client 
+- `mission-dispatch` introduced as a VDA5050-compatible cloud service 
 
 ## Nvblox with Isaac ROS DP1.1 September 1, 2022
 ### What's New
