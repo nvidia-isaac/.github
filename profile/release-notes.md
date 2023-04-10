@@ -1,5 +1,9 @@
 # Release Notes
 
+## Mission Dispatch with Isaac ROS DP3 April 5, 2023
+### What's New
+- `nvblox` v0.0.4 with Ada GPU support, updated doxygen docs, new tutorials including benchmarking on public datasets, bug fixes and improvements.
+
 ## Mission Dispatch with Isaac ROS DP2 Oct 19, 2022
 ### What's New
 - `mission-dispatch` introduced as a VDA5050-compatible cloud service 
