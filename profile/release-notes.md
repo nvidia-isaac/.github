@@ -2,7 +2,7 @@
 
 ## Nvblox with Isaac ROS DP3 April 5, 2023
 ### What's New
-- `nvblox` v0.0.4 with Ada GPU support, updated doxygen docs, new tutorials, and improvements for DNN-based person detection and removal during 3D scene reconstruction
+- `nvblox` v0.0.4 with Ada GPU support, updated doxygen docs, new tutorials, and improvements for DNN-based person detection and separation during 3D scene reconstruction
 
 ## Mission Dispatch with Isaac ROS DP2 Oct 19, 2022
 ### What's New
