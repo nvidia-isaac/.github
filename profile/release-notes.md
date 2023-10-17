@@ -1,5 +1,14 @@
 # Release Notes
 
+## Nvblox with Isaac ROS 2.0.0 October 18, 2023:
+### What's New
+Isaac ROS-synchronized release including:
+- General dynamics detection and reconstruction.
+- Added free-space layer and integrator to track regions high-confidence free-space.
+- Depth and Mask image pre-processing options.
+- Performance improvements stemming from making all CUDA calls asynchronous, and moving work off the default CUDA stream.
+- Improved stability. More warnings turned on, tests run (optionally) under asan.
+
 ## Nvblox with Isaac ROS DP3 April 5, 2023
 ### What's New
 - `nvblox` v0.0.4 with Ada GPU support, updated doxygen docs, new tutorials, and improvements for DNN-based person detection and separation during 3D scene reconstruction
