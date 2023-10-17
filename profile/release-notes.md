@@ -1,5 +1,10 @@
 # Release Notes
 
+## Mission Dispatch with Isaac ROS 2.0.0 October 18, 2023:
+### What's New
+Isaac ROS-synchronized release including:
+- Mission cancellation, initial pose, battery information.  Bug fixes.
+
 ## Nvblox with Isaac ROS 2.0.0 October 18, 2023:
 ### What's New
 Isaac ROS-synchronized release including:
